@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597423306 source:c:\users\windows\desktop\codes\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1597423185 source:c:\users\windows\desktop\codes\calculator\src\calculator.c
+	<stdio.h>
+
