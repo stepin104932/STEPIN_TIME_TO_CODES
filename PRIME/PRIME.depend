@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597420965 source:c:\users\windows\desktop\codes\prime\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1597421211 source:c:\users\windows\desktop\codes\prime\src\prime.c
+	<stdio.h>
+
