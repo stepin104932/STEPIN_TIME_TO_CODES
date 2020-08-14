@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1597416612 source:c:\users\windows\desktop\codes\stringtosubstring\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1597420213 source:c:\users\windows\desktop\codes\stringtosubstring\src\substring.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1597416589 source:c:\users\windows\desktop\codes\stringtosubstring\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597418076 c:\users\windows\desktop\codes\stringtosubstring\unity\unity.h
+	"unity_internals.h"
+
+1597418039 c:\users\windows\desktop\codes\stringtosubstring\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
